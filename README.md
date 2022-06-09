@@ -8,8 +8,7 @@ The FAMFAMFAM flag icons were made in 2005 and last updated in 2007. There are n
 
 ## All Changes
 
-- **Added flags for new countries/territories:** Caribbean Netherlands, Kosovo and South Sudan.
-- **Updated outdated flags:** Iraq, Guadeloupe, Lesotho, Libya, Mauritania, Myanmar, Paraguay, Tokelau and Tuvalu.
-- **Added flags for new/missing ISO 3166-2 codes:** Antarctica, Curacao, French Guiana, Guernsey, Isle of Man, Jersey, Reunion, Saint Barthelemy, Saint Martin and Sint Maarten.
-- **Added flags for unrecognised countries:** Abkhazia, Artsakh, Donetsk, Luhansk, Northern Cyprus, Somaliland, South Ossetia and Transnistria.
+- **Updated flags:** Iraq, Guadeloupe, Lesotho, Libya, Mauritania, Myanmar, Paraguay, Tokelau and Tuvalu.
+- **Added flags for new/missing ISO 3166-2 codes:** Antarctica, Caribbean Netherlands (Bonaire, Sint Eustatius and Saba), Curacao, French Guiana, Guernsey, Isle of Man, Jersey, Reunion, Saint Barthelemy, Saint Martin, Sint Maarten and South Sudan.
+- **Added flags for unrecognised countries:** Abkhazia, Artsakh, Donetsk, Kosovo, Luhansk, Northern Cyprus, Somaliland, South Ossetia and Transnistria.
 - **Revised flags:** Australia, Austria, Bangladesh, Bolivia, Ecuador, France, Germany, Gibraltar, Haiti, Montenegro, Morocco, Papua New Guinea, Pitcairn, Saudi Arabia, South Africa, Sri Lanka, Syria, United Arab Emirates, United States, Uzbekistan, Western Sahara and Vatican City.
