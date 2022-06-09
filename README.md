@@ -1,12 +1,12 @@
 # FAMFAMFAM Flags Updated
 
-The FAMFAMFAM flag icons were made in 2005 and last updated in 2007. There are numerous flag in the popular icon set that are outdated or use the wrong flag entirely. I have created an identical gloss and used it to update, revise and expand the FAMFAMFAM flag icon set in accordance with ISO 3166-2. This new icon set is **free to use** and **requires no attribution** - use it however and wherever you want.
+The FAMFAMFAM flag icons were made in 2005 and last updated in 2007. There are numerous flags in the popular icon set that are outdated or missing entirely. I have created an identical gloss texture and used it to update, revise and expand the FAMFAMFAM flag icon set in accordance with ISO 3166-2. This new icon set is also **free to use** and **requires no attribution**.
 
 [Original FAMFAMFAM flags](http://famfamfam.com/lab/icons/flags/)
 
 [ISO 3166-2 list](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2#Officially_assigned_code_elements)
 
-## Changes
+## All Changes
 
 - **Added flags for new countries/territories:** Caribbean Netherlands, Kosovo and South Sudan.
 - **Updated outdated flags:** Iraq, Guadeloupe, Lesotho, Libya, Mauritania, Myanmar, Paraguay, Tokelau and Tuvalu.
