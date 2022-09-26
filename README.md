@@ -20,4 +20,4 @@ The FAMFAMFAM flag icons were made in 2005 and last updated in 2007. There are n
 
 **Added flags for unrecognised countries:** Abkhazia, Artsakh, Donetsk, Kosovo, Luhansk, Northern Cyprus, Somaliland, South Ossetia and Transnistria.
 
-**Revised flags:** Australia, Austria, Bangladesh, Bolivia, Costa Rica, Ecuador, France, Germany, Gibraltar, Haiti, Montenegro, Morocco, Papua New Guinea, Pitcairn, Saudi Arabia, South Africa, Sri Lanka, Syria, Thailand, United Arab Emirates, United States, Uzbekistan, Western Sahara, Vatican City, Venezuela and Yemen.
+**Revised flags:** Australia, Austria, Bangladesh, Bolivia, Costa Rica, Ecuador, France, Germany, Gibraltar, Haiti, Montenegro, Morocco, Papua New Guinea, Pitcairn, Saudi Arabia, South Africa, Sri Lanka, Syria, Thailand, United Arab Emirates, Uzbekistan, Western Sahara, Vatican City, Venezuela and Yemen.
