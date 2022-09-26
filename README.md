@@ -4,6 +4,12 @@ The FAMFAMFAM flag icons were made in 2005 and last updated in 2007. There are n
 
 [Original FAMFAMFAM flags](http://famfamfam.com/lab/icons/flags/)
 
+[Download Updated Flags (.png)](https://github.com/shoal3/famfamfam-flags-updated/blob/main/Fixed.zip?raw=true)
+
+For 4chan (flags.9.png):
+
+![For 4chan](https://raw.githubusercontent.com/shoal3/famfamfam-flags-updated/main/flags.9.png)
+
 ## What's new?
 
 ![Updated](https://github.com/shoal3/famfamfam-flags-updated/blob/main/images/updated.png?raw=true)
