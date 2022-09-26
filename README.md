@@ -27,3 +27,8 @@ For 4chan (flags.9.png, doesn't include new flags):
 **Added flags for unrecognised countries:** Abkhazia, Artsakh, Donetsk, Kosovo, Luhansk, Northern Cyprus, Somaliland, South Ossetia and Transnistria.
 
 **Revised flags:** United Arab Emirates, Austria, Australia, Bandladesh, Bolivia, Costa Rica, Germany, Ecuador, Western Sahara, France, Gibraltar, Haiti, Sri Lanka, Morocco, Montenegro, Papua New Guinea, Pitcairn, Saudi Arabia, Syria, Thailand, Uzbekistan, Vatican City, Venezuela, Yemen and South Africa.
+
+
+## Before and after:
+
+![comparison](https://raw.githubusercontent.com/shoal3/famfamfam-flags-updated/main/images/flags.gif)
