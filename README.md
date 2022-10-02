@@ -6,10 +6,6 @@ The FAMFAMFAM flag icons were made in 2005 and last updated in 2007. There are n
 
 [Download Updated Flags (.png)](https://github.com/shoal3/famfamfam-flags-updated/blob/main/Fixed.zip?raw=true)
 
-For 4chan (flags.9.png, doesn't include new flags):
-
-![For 4chan](https://raw.githubusercontent.com/shoal3/famfamfam-flags-updated/main/flags.9.png)
-
 ## What's new?
 
 ![Updated](https://github.com/shoal3/famfamfam-flags-updated/blob/main/images/updated.png?raw=true)
@@ -27,8 +23,3 @@ For 4chan (flags.9.png, doesn't include new flags):
 **Added flags for unrecognised countries:** Abkhazia, Artsakh, Donetsk, Kosovo, Luhansk, Northern Cyprus, Somaliland, South Ossetia and Transnistria.
 
 **Revised flags:** United Arab Emirates, Austria, Australia, Bandladesh, Bolivia, Costa Rica, Germany, Ecuador, Western Sahara, France, Gibraltar, Haiti, Sri Lanka, Morocco, Montenegro, Papua New Guinea, Pitcairn, Saudi Arabia, Syria, Thailand, Uzbekistan, Vatican City, Venezuela, Yemen and South Africa.
-
-
-## Before and after:
-
-![comparison](https://raw.githubusercontent.com/shoal3/famfamfam-flags-updated/main/images/flags.gif)
